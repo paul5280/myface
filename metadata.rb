@@ -1,6 +1,6 @@
 name             'paul5280-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Paul Brown'
+maintainer_email 'foo@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures paul5280-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
